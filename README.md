@@ -7,8 +7,8 @@ Users should be able to:
 
 Screenshot
 
-![Mobile solution](https://i.imgur.com/iyEPBxO.jpg)
-![Solution desktop](https://i.imgur.com/OUxnxA6.jpg)
+![Mobile solution](https://i.imgur.com/03vVpbB.jpg)
+![Desktop solution](https://i.imgur.com/wwVOGEj.jpg)
 
 Built with
 
